@@ -4,77 +4,77 @@
         "game_over": "Fim do jogo"
     },
     "perguntas": {
-        "quest01": "Qual é o maior país do mundo em extensão territorial?",
-        "quest02": "Quem pintou a Mona Lisa?",
-        "quest03": "Qual é o elemento químico representado pelo símbolo O?",
-        "quest04": "Em que ano o homem pisou na Lua pela primeira vez?",
-        "quest05": "Qual é o idioma mais falado no mundo?",
-        "quest06": "Quantos lados tem um hexágono?",
-        "quest07": "Qual é o planeta mais próximo do Sol?",
-        "quest08": "Quem escreveu a peça 'Romeu e Julieta'?",
-        "quest09": "Qual é a capital da França?",
-        "quest10": "Quantos minutos tem uma hora?"
+        "quest01": "Qual é o maior país do \nmundo em território?",
+        "quest02": "Quem pintou a \nMona Lisa?",
+        "quest03": "Qual o elemento químico \nrepresentado pelo O?",
+        "quest04": "Qual ano o homem pisou \nna Lua pela primeira vez?",
+        "quest05": "Qual é o idioma mais \nfalado no mundo?",
+        "quest06": "Quantos lados tem um \nhexágono?",
+        "quest07": "Qual é o planeta mais \npróximo do Sol?",
+        "quest08": "Quem escreveu a peça \n'Romeu e Julieta'?",
+        "quest09": "Qual é a capital da \nFrança?",
+        "quest10": "Quantos minutos tem \numa hora?"
     },
     "respostas": {
         "quest01": {
-            "resposta1": ["Rússia (correta)"],
-            "resposta2": ["China"],
-            "resposta3": ["Canadá"],
-            "resposta4": ["Brasil"]
+            "resposta1": "Rússia",
+            "resposta2": "China",
+            "resposta3": "Canadá",
+            "resposta4": "Brasil"
         },
         "quest02": {
-            "resposta1": ["Pablo Picasso"],
-            "resposta2": ["Leonardo da Vinci (correta)"],
-            "resposta3": ["Vincent van Gogh"],
-            "resposta4": ["Michelangelo"]
+            "resposta1": "Pablo Picasso",
+            "resposta2": "Da Vinci",
+            "resposta3": "Van Gogh",
+            "resposta4": "Michelangelo"
         },
         "quest03": {
-            "resposta1": ["Ouro"],
-            "resposta2": ["Ozônio"],
-            "resposta3": ["Oxigênio (correta)"],
-            "resposta4": ["Osmium"]
+            "resposta1": "Ouro",
+            "resposta2": "Ozônio",
+            "resposta3": "Oxigênio",
+            "resposta4": "Osmium"
         },
         "quest04": {
-            "resposta1": ["1965"],
-            "resposta2": ["1972"],
-            "resposta3": ["1969 (correta)"],
-            "resposta4": ["1972"]
+            "resposta1": "1965",
+            "resposta2": "1972",
+            "resposta3": "1969",
+            "resposta4": "1972"
         },
         "quest05": {
-            "resposta1": ["Inglês"],
-            "resposta2": ["Mandarim (correta)"],
-            "resposta3": ["Espanhol"],
-            "resposta4": ["Hindi"]
+            "resposta1": "Inglês",
+            "resposta2": "Mandarim",
+            "resposta3": "Espanhol",
+            "resposta4": "Hindi"
         },
         "quest06": {
-            "resposta1": ["6 (correta)"],
-            "resposta2": ["5"],
-            "resposta3": ["8"],
-            "resposta4": ["7"]
+            "resposta1": "6",
+            "resposta2": "5",
+            "resposta3": "8",
+            "resposta4": "7"
         },
         "quest07": {
-            "resposta1": ["Vênus"],
-            "resposta2": ["Marte"],
-            "resposta3": ["Terra"],
-            "resposta4": ["Mercúrio (correta)"]
+            "resposta1": "Vênus",
+            "resposta2": "Marte",
+            "resposta3": "Terra",
+            "resposta4": "Mercúrio"
         },
         "quest08": {
-            "resposta1": ["Charles Dickens"],
-            "resposta2": ["William Shakespeare (correta)"],
-            "resposta3": ["J.K. Rowling"],
-            "resposta4": ["George Orwell"]
+            "resposta1": "Charles Dickens",
+            "resposta2": "Shakespeare",
+            "resposta3": "J.K. Rowling",
+            "resposta4": "George Orwell"
         },
         "quest09": {
-            "resposta1": ["Paris (correta)"],
-            "resposta2": ["Roma"],
-            "resposta3": ["Madri"],
-            "resposta4": ["Londres"]
+            "resposta1": "Paris",
+            "resposta2": "Roma",
+            "resposta3": "Madri",
+            "resposta4": "Londres"
         },
         "quest10": {
-            "resposta1": ["1000"],
-            "resposta2": ["30"],
-            "resposta3": ["45"],
-            "resposta4": ["60 c"]
+            "resposta1": "1000",
+            "resposta2": "30",
+            "resposta3": "45",
+            "resposta4": "60"
         }
     }
 }
